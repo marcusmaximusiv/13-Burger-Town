@@ -1,0 +1,32 @@
+#title{
+    text-align:center;
+    color: white;
+}
+#subtitle{
+    text-align:center;
+    color: white;
+}
+#choices{
+    text-align:left;
+}
+#cart{
+    text-align:right;
+}
+button{
+    align-content:center;
+}
+html{
+    background-color: yellow;
+}
+table{
+    background-color: yellow;
+}
+.container{
+    background-color:yellow;
+}
+body{
+    background-color:yellow;
+}
+.jumbotron{
+    background-color: red;
+}
