@@ -10,10 +10,10 @@
     text-align:left;
 }
 #cart{
-    text-align:right;
+    text-align:left;
 }
-button{
-    align-content:center;
+#button{
+    text-align:center;
 }
 html{
     background-color: yellow;
